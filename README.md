@@ -1,6 +1,6 @@
 # Roblox Luau Language Server
 
-## Personal Fork
+## xbili's Personal Fork
 
 This is my personal fork of the LSP, because I needed to run this within Neovim. The only difference is that I added a `run.sh`
 script that runs this from a Homebrew installed version of `lua-language-server` binary.
